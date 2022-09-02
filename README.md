@@ -21,3 +21,19 @@ Screenshots:
 
 1. First operation PUT: PUT inserts single record in the database.
 
+Query:
+
+{
+    "token": "90937408|-31949292197571296|90943487",
+    "cmd": "PUT",
+    "dbName": "Student",
+    "rel": "Student-Rel",
+    "jsonStr": {
+        "id": "1",
+        "name": "Sneha",
+        "email": "snehadhirajkabra@gmail.com",
+        "mobileno": 9067825671
+    }
+}
+
+![image](https://user-images.githubusercontent.com/112716091/188196223-0b436fc7-bcd0-401a-b102-3661d5033573.png)
