@@ -1,4 +1,4 @@
-Title of the project: # jsondb-project
+**Title of the project: # jsondb-project**
 
 Description: Learn to handle JSON-DB from the scratch
 
@@ -25,13 +25,21 @@ Query:
 
 {
     "token": "90937408|-31949292197571296|90943487",
+    
     "cmd": "PUT",
+    
     "dbName": "Student",
+    
     "rel": "Student-Rel",
+    
     "jsonStr": {
+    
         "id": "1",
+        
         "name": "Sneha",
+        
         "email": "snehadhirajkabra@gmail.com",
+        
         "mobileno": 9067825671
     }
 }
@@ -44,10 +52,15 @@ Query:
 
 {
     "token": "90937408|-31949292197571296|90943487",
+    
     "dbName": "Student",
+    
     "cmd": "GET_BY_KEY",
+    
     "rel": "Student-Rel",
+    
     "jsonStr": {
+    
         "name": "Soniya"
     }
 
@@ -63,12 +76,19 @@ Query:
 
 {
     "token": "90937408|-31949292197571296|90943487",
+    
     "cmd": "UPDATE",
+    
     "dbName": "Student",
+    
     "rel": "Student-Rel",
+    
     "jsonStr": {
+    
        "2":{
+       
         "full_name": "Gargee Mishra"
+        
 
       }
       }
@@ -83,10 +103,15 @@ Query:
 
 {
     "token": "90937408|-31949292197571296|90943487",
+    
     "cmd": "REMOVE",
+    
     "dbName": "Student",
+    
     "rel": "Student-Rel",
+    
     "record": 1,
+    
     "jsonStr" : {}
 }
 
