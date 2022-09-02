@@ -125,6 +125,16 @@ Query:
 ![image](https://user-images.githubusercontent.com/112716091/188197559-09f53758-df0a-4a84-b19a-ecaa11fd4505.png)
 
 
+
+
+
+
+**Data saved in database using CRUD operations:**
+
+![image](https://user-images.githubusercontent.com/112716091/188201200-c5379e51-3f6a-4306-bff2-6234b295888f.png)
+
+
+
 **Sending data to database from web page:**
 
 code:
@@ -282,8 +292,15 @@ code:
 
 
 
+**Learnings:**
 
-Project Status: Data is not getting saved in database and response alert is also not coming on web page. I will b updating that too once I solve the issue.
+1. This is my first project on GitHub. 
+2. Learned so many things on JSONPowerDB database which gave me knowledge of database from scratch.
+3. I performed all the CRUD operations.
+4. Saving records in the JSONPowerDB from web page using HTML, JAVASCRIPT, CSS, AJAX was also very informative for me. 
+
+
+Project Status:  Data is not getting saved in database and response alert is also not coming on web page. I will b updating that too once I solve the issue.
 
 
 
