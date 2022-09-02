@@ -14,3 +14,10 @@ Benefits of using JSONPowerDB:
 4.It is low level (raw) form of data and is also human readable.
 
 5.It helps developers in faster coding, in-turn reduces development cost.
+
+Release History: Creating first time a very small project to learn basic CRUD operations of JSONDB.
+
+Screenshots:
+
+1. First operation PUT: PUT inserts single record in the database.
+
