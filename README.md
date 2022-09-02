@@ -1,9 +1,9 @@
-**Title of the project: # jsondb-project**
+**Title of the project: # JSONPOWERDB**
 
-Description: Learn to handle JSON-DB from the scratch
+**Description: ** Learn to handle JSON-DB from the scratch
 
 
-Benefits of using JSONPowerDB:
+**Benefits of using JSONPowerDB:**
 
 1.Simplest way to retrieve data in a JSON format.
 
@@ -15,9 +15,9 @@ Benefits of using JSONPowerDB:
 
 5.It helps developers in faster coding, in-turn reduces development cost.
 
-Release History: Creating first time a very small project to learn basic CRUD operations of JSONDB.
+**Release History:** Creating first time a very small project to learn basic CRUD operations of JSONDB.
 
-Screenshots:
+**Screenshots:**
 
 1.PUT: PUT inserts single record in the database.
 
