@@ -19,7 +19,7 @@
 
 **Screenshots:**
 
-1.PUT: PUT inserts single record in the database.
+**1.PUT:** PUT inserts single record in the database.
 
 Query:
 
@@ -49,7 +49,7 @@ Query:
 
 ![image](https://user-images.githubusercontent.com/112716091/188196223-0b436fc7-bcd0-401a-b102-3661d5033573.png)
 
-2.GET: Retrive single row data.
+**2.GET:** Retrive single row data.
 
 Query:
 
@@ -75,7 +75,7 @@ Query:
 ![image](https://user-images.githubusercontent.com/112716091/188196946-8f90f1cf-3462-47e6-bd29-808049f621cf.png)
 
 
-3. UPDATE: Update multiple records in the database or add a new column in a record.
+**3. UPDATE:** Update multiple records in the database or add a new column in a record.
 
 Query:
 
@@ -103,7 +103,7 @@ Query:
 ![image](https://user-images.githubusercontent.com/112716091/188197333-be396ae1-bd23-4fa2-b2c1-e383aa4fc72f.png)
 
 
-4. REMOVE: Remove records from the database.
+**4. REMOVE:** Remove records from the database.
 
 Query:
 
